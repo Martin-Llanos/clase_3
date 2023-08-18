@@ -1,4 +1,4 @@
-const documentos = prompt('Tenes documento de identidad? (responda Si o No)').toLowerCase();
+const documentos = prompt('Tenes documento de identidad? ('Si').toLowerCase();
 
 let edad;
 
