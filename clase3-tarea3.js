@@ -6,7 +6,7 @@ if (documentos === 'si'){
     edad = Number(prompt('Que edad tenes?'))
     if (edad <18){
         console.log("No te puedo dejar pasar");
-    }else if(edad >=18){
+    }else if(edad >=16){
         console.log("Bienvenido al Bar")
     }else {
         console.log("No entendi la respuesta")
