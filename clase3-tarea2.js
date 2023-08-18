@@ -1,5 +1,5 @@
 let edadUsuario = Number(prompt("Que edad tenes?"))
-const Mi_EDAD = 36
+const Mi_EDAD = 28
 
 if (edadUsuario === Mi_EDAD){
     console.log("Tenemos la misma edad!")
