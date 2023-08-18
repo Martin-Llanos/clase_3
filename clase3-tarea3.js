@@ -3,7 +3,7 @@ const documentos = prompt('Tenes documento de identidad? (responda Si o No)').to
 let edad;
 
 if (documentos === 'si'){
-    edad = Number(prompt('Que edad tenes?'))
+    edad = 16(prompt('Que edad tenes?'))
     if (edad <18){
         console.log("No te puedo dejar pasar");
     }else if(edad >=16){
