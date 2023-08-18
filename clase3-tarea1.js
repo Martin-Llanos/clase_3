@@ -1,10 +1,10 @@
 const nombreDeUsuario = prompt("Como te llamas?" || '').toLowerCase();
-const miNombre = 'Sebastian'
-const nombreDeMiHermano = 'Luciano'
+const miNombre = 'Miguel'
+const nombreDeMiHermano = 'Luis'
 
-if (nombreDeUsuario === 'sebastian'){
+if (nombreDeUsuario === 'Miguel'){
     console.log("Hola, Tocayo! Yo también me llamo " + miNombre);
-} else if (nombreDeUsuario === 'luciano'){
+} else if (nombreDeUsuario === 'luis'){
    console.log("Hola " + nombreDeMiHermano + " , te llamás igual que mi hermano");
 } else {
     console.log("Hola, " + nombreDeUsuario)
